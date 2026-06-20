@@ -1,0 +1,4 @@
+interface:
+  display_name: "Travel Photo Sort Edit"
+  short_description: "Plan-first travel photo sorting and edits"
+  default_prompt: "Use $travel-photo-sort-edit to sort a trip photo folder into post-ready and core-memory keepers with cohesive edits."
