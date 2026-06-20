@@ -1,0 +1,42 @@
+.DS_Store
+
+# Local photo sorting workspaces and outputs
+_photo_sort/
+contact_sheets/
+manifests/
+post_ready_*/
+core_memory_*/
+review_extras/
+
+# Avoid committing private photo originals or edits by accident
+*.nef
+*.NEF
+*.raw
+*.RAW
+*.dng
+*.DNG
+*.cr2
+*.CR2
+*.cr3
+*.CR3
+*.arw
+*.ARW
+*.raf
+*.RAF
+*.orf
+*.ORF
+*.rw2
+*.RW2
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+!docs/**/*.jpg
+!docs/**/*.jpeg
+!docs/**/*.png
+
+# Local editor and temp files
+*.swp
+*.tmp
